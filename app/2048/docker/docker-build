@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t tongheng205/react-app-2048-ss:latest .
