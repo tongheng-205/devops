@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: react-app-container
-          image: tongheng205/react-app-2048-ss:latest
+          image: tongheng205/react-app-2048-ss:v2
           imagePullPolicy: Always
           ports:
             - containerPort: 80
