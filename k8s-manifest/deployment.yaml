@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: react-app-2048
-  namespace: dev
 spec:
   replicas: 6
   selector:
